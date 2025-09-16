@@ -31,9 +31,10 @@ Currently, I’m pursuing my **Computer Science degree** while working on projec
 ---
 
 ## 📫 Connect with Me  
-- **LinkedIn:** [linkedin.com/in/saadkashif5](https://linkedin.com/in/saadkashif)  
+- **LinkedIn:** [linkedin.com/in/saadkashif5](https://linkedin.com/in/saadkashif5)  
 - **Email:** saadkashif045@gmail.com
-- **GitHub:** [github.com/saadkashif5](#https://github.com/saadkashif)  
+- **GitHub:** [github.com/saadkashif5](https://github.com/saadkashif)
+- **GitHub:** [saadkashif.github.io](https://saadkashif.github.io)    
 
 ---
 
