@@ -17,11 +17,9 @@ Currently, I’m pursuing my **Computer Science degree** while working on projec
 ---
 
 ## 🌟 Featured Projects  
-- 🛍 **Virtual Try Room App** – Mobile & web app with AR/3D clothing try-on, supporting users, companies, and admins.  
-- 🎮 **Procedural Tower Builder (Unity Game)** – Physics-based touch game with raycasting, procedural generation, and game-over conditions.  
+- 🛍 **Virtual Try Room App** – Mobile & web app with AR/3D clothing try-on, supporting users, companies, and admins.    
 - 🚗 **Car Maintenance Log App** – Mobile app for managing car service history, reminders, and records.  
-- 🍔 **Food Delivery System** – Full-stack web app with order tracking, cart, and payment integration.  
-- ☁ **Weather Forecast Microservice** – REST API split into microservices, containerized with Docker.   
+- 🍔 **Food Delivery System** – Full-stack web app with order tracking, cart, and payment integration.    
 
 ---
 
@@ -33,9 +31,9 @@ Currently, I’m pursuing my **Computer Science degree** while working on projec
 ---
 
 ## 📫 Connect with Me  
-- **LinkedIn:** [linkedin.com/in/saadkashif5](#)  
+- **LinkedIn:** [linkedin.com/in/saadkashif5](https://linkedin.com/in/saadkashif)  
 - **Email:** saadkashif045@gmail.com
-- **GitHub:** [github.com/saadkashif5](#)  
+- **GitHub:** [github.com/saadkashif5](#https://github.com/saadkashif)  
 
 ---
 
