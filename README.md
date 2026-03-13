@@ -19,7 +19,6 @@ My work mainly revolves around the **JavaScript ecosystem**, building modern app
 | Python        | Next.js             | REST APIs     | SQL Server    | Stripe API            |
 | Java          | Tailwind CSS        | Microservices | Firebase      | Zapier                |
 | C++           | HTML5 / CSS3        |               | Supabase      | Google Apps Script    |
-|               |                     |               |               | VS Code               |
 
 ---
 
