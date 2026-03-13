@@ -1,41 +1,131 @@
-# Hi there, I'm Saad 👋  
+# Hi there, I'm Saad 👋
 
-🚀 **Full-Stack Developer | MERN | React Native | Software Engineer**  
+🚀 **Software Engineer | Full-Stack Developer | MERN | React Native**
 
-I’m a passionate developer with a strong focus on building impactful **Web and Mobile Applications**.  
-Currently, I’m pursuing my **Computer Science degree** while working on projects that bring ideas to life — from **Virtual Try On App** to **Full Stack Web Apps** and **Microservices with Docker**.  
+I’m a **Full-Stack Software Engineer** focused on building scalable **web and mobile applications**.
+I enjoy designing complete systems — from **responsive frontend interfaces** to **robust backend APIs and databases**.
 
----
-
-## 🛠️ Tech Stack  
-- **Languages:** JavaScript, TypeScript, Python, Java, C++  
-- **Frontend:** React, React Native (Expo), Tailwind CSS, Next.js  
-- **Backend:** Node.js, Express, REST APIs, Microservices  
-- **Databases:** MongoDB, MySQL, SQL Server, Firebase, Supabase
-- **Other Tools & Platforms:** Docker, Git/GitHub, Firebase, Stripe API, Google Apps Script  
+My work mainly revolves around **JavaScript ecosystems**, building modern applications with **React, Next.js, Node.js, and React Native** while focusing on clean architecture, performance, and maintainability.
 
 ---
 
-## 🌟 Featured Projects  
-- 🛍 **Virtual Try Room App** – Mobile & web app with AR/3D clothing try-on, supporting users, companies, and admins.    
-- 🚗 **Car Maintenance Log App** – Mobile app for managing car service history, reminders, and records.  
-- 🍔 **Food Delivery System** – Full-stack web app with order tracking, cart, and payment integration.    
+# 💻 Tech Stack
+
+### Languages
+
+* JavaScript
+* TypeScript
+* Python
+* Java
+* C++
+
+### Frontend
+
+* React
+* React Native (Expo)
+* Next.js
+* Tailwind CSS
+* HTML5 / CSS3
+
+### Backend
+
+* Node.js
+* Express.js
+* REST APIs
+* Microservices Architecture
+
+### Databases
+
+* MongoDB
+* MySQL
+* SQL Server
+* Firebase
+* Supabase
+
+### Tools & Platforms
+
+* Docker
+* Git & GitHub
+* Stripe API
+* Firebase
+* Google Apps Script
+* VS Code
 
 ---
 
-## 💼 Career Goals  
-- 🎯 To grow as a **Software Engineer** with expertise in **MERN stack** and **React Native**  
-- 🌍 Interested in opportunities in **frontend, full-stack, or software engineering** roles  
-- 🤝 Open to internships, freelance, or junior software engineering roles  
+# 🚀 Featured Projects
+
+## 🍔 Food Delivery System
+
+A **full-stack web application** for ordering food online.
+
+**Features**
+
+* Product browsing and cart system
+* Order management
+* Payment integration
+* Admin dashboard
 
 ---
 
-## 📫 Connect with Me  
-- **LinkedIn:** [linkedin.com/in/saadkashif5](https://linkedin.com/in/saadkashif5)  
-- **Email:** saadkashif045@gmail.com
-- **GitHub:** [github.com/saadkashif5](https://github.com/saadkashif)
-- **Portfolio:** [saadkashif5.github.io](https://saadkashif5.github.io)    
+## 🚗 Car Maintenance Log App
+
+A **React Native mobile application** for managing vehicle service records.
+
+**Features**
+
+* Maintenance history tracking
+* Service reminders
+* Expense tracking
+* Mobile-friendly UI
 
 ---
 
-⭐️ *"Code, create, and keep learning — every line builds the future."*
+## 🛍 Virtual Try-On App
+
+A **mobile and web application** that allows users to explore and try clothing digitally.
+
+**Features**
+
+* User, Company, and Admin roles
+* Article browsing and management
+* Camera integration for previewing clothing
+* Snapshot functionality
+
+---
+
+# 🌱 Areas of Interest
+
+* Scalable **Full-Stack Architecture**
+* **Modern React & Next.js applications**
+* **Mobile app development with React Native**
+* Backend system design and API development
+
+---
+
+# 🎯 Career Goals
+
+* Continue growing as a **Full-Stack Software Engineer**
+* Build scalable and production-ready products
+* Contribute to impactful technology solutions
+* Work on challenging engineering problems
+
+---
+
+# 📫 Connect With Me
+
+💼 **LinkedIn**
+https://linkedin.com/in/saadkashif5
+
+📧 **Email**
+[saadkashif045@gmail.com](mailto:saadkashif045@gmail.com)
+
+💻 **GitHub**
+https://github.com/saadkashif
+
+🌐 **Portfolio**
+https://saadkashif5.github.io
+
+---
+
+⭐️ *“Building reliable software, one system at a time.”*
