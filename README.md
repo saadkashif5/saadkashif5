@@ -1,13 +1,15 @@
 # Hi there, I'm Saad 👋
 
-🚀 **Software Engineer | Full-Stack Developer | MERN | React Native**
+🚀 **Software Engineer | Full-Stack Developer | MERN | React Native | AI-Powered Applications**
 
-I’m a **Full-Stack Software Engineer** focused on building scalable **web and mobile applications**.
-I enjoy designing complete systems — from **responsive frontend interfaces** to **robust backend APIs and databases**.
+I’m a **Full-Stack Software Engineer** focused on building scalable **web and mobile applications** with strong emphasis on **AI-powered features, integrations, and workflow automation**.
 
-My work mainly revolves around **JavaScript ecosystems**, building modern applications with **React, Next.js, Node.js, and React Native** while focusing on clean architecture, performance, and maintainability.
+I enjoy designing complete systems — from **responsive frontend interfaces** to **robust backend APIs, automation pipelines, and intelligent integrations**.
+
+My work mainly revolves around the **JavaScript ecosystem**, building modern applications with **React, Next.js, Node.js, and React Native**, while integrating **AI tools, third-party APIs, and automation platforms** to create efficient and scalable products.
 
 ---
+
 # 💻 Tech Stack
 
 | **Languages** | **Frontend**        | **Backend**   | **Databases** | **Tools & Platforms** |
@@ -15,9 +17,10 @@ My work mainly revolves around **JavaScript ecosystems**, building modern applic
 | JavaScript    | React               | Node.js       | MongoDB       | Docker                |
 | TypeScript    | React Native (Expo) | Express.js    | MySQL         | Git & GitHub          |
 | Python        | Next.js             | REST APIs     | SQL Server    | Stripe API            |
-| Java          | Tailwind CSS        | Microservices | Firebase      | Firebase              |
+| Java          | Tailwind CSS        | Microservices | Firebase      | Zapier                |
 | C++           | HTML5 / CSS3        |               | Supabase      | Google Apps Script    |
 |               |                     |               |               | VS Code               |
+
 ---
 
 # 🚀 Featured Projects
@@ -29,7 +32,7 @@ A **full-stack web application** for ordering food online.
 **Features**
 
 * Product browsing and cart system
-* Order management
+* Order management and tracking
 * Payment integration
 * Admin dashboard
 
@@ -61,21 +64,37 @@ A **mobile and web application** that allows users to explore and try clothing d
 
 ---
 
+# 🤖 AI & Automation Work
+
+Alongside full-stack development, I work on **AI-integrated and automation-driven platforms**, including:
+
+* **AI-powered CRM systems**
+* **Coaching & course management platforms**
+* **E-commerce platforms with automated workflows**
+* **Automated outreach and lead generation systems**
+* **Third-party integrations and automation pipelines using tools like Zapier**
+* **API-driven automation and workflow orchestration**
+
+These systems help businesses **automate operations, scale customer interactions, and streamline processes**.
+
+---
+
 # 🌱 Areas of Interest
 
-* Scalable **Full-Stack Architecture**
-* **Modern React & Next.js applications**
+* **AI-powered web applications**
+* **Automation platforms & workflow orchestration**
+* **Scalable Full-Stack architecture**
+* **Modern React & Next.js ecosystems**
 * **Mobile app development with React Native**
-* Backend system design and API development
 
 ---
 
 # 🎯 Career Goals
 
 * Continue growing as a **Full-Stack Software Engineer**
-* Build scalable and production-ready products
-* Contribute to impactful technology solutions
-* Work on challenging engineering problems
+* Build **AI-powered and automation-driven products**
+* Contribute to **high-impact platforms used by real businesses**
+* Work on **scalable and technically challenging systems**
 
 ---
 
@@ -95,4 +114,4 @@ https://saadkashif5.github.io
 
 ---
 
-⭐️ *“Building reliable software, one system at a time.”*
+⭐️ *“Building reliable, scalable, and intelligent software systems.”*
