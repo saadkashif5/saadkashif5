@@ -8,49 +8,16 @@ I enjoy designing complete systems — from **responsive frontend interfaces** t
 My work mainly revolves around **JavaScript ecosystems**, building modern applications with **React, Next.js, Node.js, and React Native** while focusing on clean architecture, performance, and maintainability.
 
 ---
-
 # 💻 Tech Stack
 
-### Languages
-
-* JavaScript
-* TypeScript
-* Python
-* Java
-* C++
-
-### Frontend
-
-* React
-* React Native (Expo)
-* Next.js
-* Tailwind CSS
-* HTML5 / CSS3
-
-### Backend
-
-* Node.js
-* Express.js
-* REST APIs
-* Microservices Architecture
-
-### Databases
-
-* MongoDB
-* MySQL
-* SQL Server
-* Firebase
-* Supabase
-
-### Tools & Platforms
-
-* Docker
-* Git & GitHub
-* Stripe API
-* Firebase
-* Google Apps Script
-* VS Code
-
+| **Languages** | **Frontend**        | **Backend**   | **Databases** | **Tools & Platforms** |
+| ------------- | ------------------- | ------------- | ------------- | --------------------- |
+| JavaScript    | React               | Node.js       | MongoDB       | Docker                |
+| TypeScript    | React Native (Expo) | Express.js    | MySQL         | Git & GitHub          |
+| Python        | Next.js             | REST APIs     | SQL Server    | Stripe API            |
+| Java          | Tailwind CSS        | Microservices | Firebase      | Firebase              |
+| C++           | HTML5 / CSS3        |               | Supabase      | Google Apps Script    |
+|               |                     |               |               | VS Code               |
 ---
 
 # 🚀 Featured Projects
